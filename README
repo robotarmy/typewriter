@@ -2,6 +2,39 @@
 # Typewriter
 #   A Test driven approch to ruby basics
 #
+# # Prerequisite installation
+#
+# ruby 1.9.2
+# git (git-core)
+#
 # # To Begin
-# git clone 
+#
+#   git clone  git://github.com/robotarmy/typewriter.git
+#   gem install wrong
+#
+# # To Continue
+#
+#   Lessons are broken into folders 1 , 2 , 3 , 4 , ...
+#
+#   It is suggested that lesson 1 precede leson 2
+#
+#   Skipping ahead may result in undo confusion.
+#
+# # What topics will be covered
+#
+#   sharing code between files
+#
+#   methods
+#
+#   testing
+#    
+#   classes
+#
+#   strings
+#
+#   arrays
+#
+#   iterators
+#
+#
 #
