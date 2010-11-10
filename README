@@ -14,15 +14,19 @@
 #
 # # To Continue
 #
-#   Lessons are broken into folders 1 , 2 , 3 , 4 , ...
+#   Lessons are broken into folders 1 , 2 , 3 , 5 , ...
 #
-#   It is suggested that lesson 1 precede leson 2
+#   It is suggested that lesson n precede lesson x where x > n
 #
 #   Skipping ahead may result in undo confusion.
 #
 # # What topics will be covered
 #
 #   sharing code between files
+#   
+#   constants
+#
+#   conditionals : if
 #
 #   methods
 #
