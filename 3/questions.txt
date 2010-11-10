@@ -1,0 +1,33 @@
+
+When you first use ruby to run 'typewriter_test.rb' you would see:
+          undefined method `hello' for main:Object (NoMethodError)
+
+  The test expects a method named 'hello' to exist.
+  One way to solve this is by defining a method in typewriter.rb
+
+Question:
+
+  Regarding the error message which says '... for main:Object ... ' :
+
+    Why does defining typewriter.rb like :
+    #--- typewriter.rb
+        def hello() 
+        end
+    #--- end typewriter.rb
+    dismiss the error message about Object?
+
+    Why does defining typewriter.rb like
+    #--- typewriter.rb
+      class Object
+        def hello()
+        end
+      end
+    #--- end typewriter.rb
+      
+    also dismiss the error message about Object?
+
+    Why are these equivalent to ruby - What is happending?
+
+
+
+
