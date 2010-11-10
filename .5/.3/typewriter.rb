@@ -1,2 +1,0 @@
-class Typewriter
-end
