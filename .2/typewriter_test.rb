@@ -1,4 +1,4 @@
-require 'typewriter'  # load the file named typewriter.rb
+require './typewriter'  # load the file named typewriter.rb
 
 if AConstantStartsWithACapitalLetter == "hello"
   puts 'it works!'

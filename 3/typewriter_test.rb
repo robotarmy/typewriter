@@ -1,4 +1,4 @@
-require 'typewriter'  # load the file named typewriter.rb
+require './typewriter'  # load the file named typewriter.rb
 
 if hello() == "hello"
   puts 'it works!'

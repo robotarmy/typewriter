@@ -1,4 +1,4 @@
-require 'typewriter'                # load the file named typewriter.rb
+require './typewriter'                # load the file named typewriter.rb
 require 'test/unit'                 # load the ruby library for testing
 require 'rubygems'                  # load the ruby 1.9.2 library for loading gems
 require 'wrong'                     # load the wrong gem

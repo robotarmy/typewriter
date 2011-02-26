@@ -1,1 +1,1 @@
-require 'typewriter'  # load the file named typewriter.rb
+require './typewriter'  # load the file named typewriter.rb
