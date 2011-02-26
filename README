@@ -44,9 +44,11 @@
 #
 #   strings
 #
-#   arrays
-#
-#   iterators
 #
 #
+# TO ADD
 #
+#  more class objects
+#  attr_accessor
+#  iterators
+#  more string
