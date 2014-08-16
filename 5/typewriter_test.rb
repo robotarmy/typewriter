@@ -4,7 +4,7 @@ require 'rubygems'                  # load the ruby 1.9.2 library for loading ge
 require 'wrong'                     # load the wrong gem
 require 'wrong/adapters/test_unit'  # load wrong for use with test/unit
 
-class TypwriterTest < Test::Unit::TestCase
+class TypewriterTest < Test::Unit::TestCase
   def test_has_constant
       assert {
         Object.const_get('Typewriter')

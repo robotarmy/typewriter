@@ -1,6 +1,6 @@
 #
 # Typewriter
-#   A Test driven approch to ruby basics
+#   A Test driven approach to ruby basics
 #
 # # Prerequisite installation
 #
@@ -24,7 +24,7 @@
 #   # Running a lesson
 #
 #   cd 1
-#   ruby typwriter_test.rb
+#   ruby typewriter_test.rb
 #   
 #   #  the test typewriter_test will not require modification in any test
 #

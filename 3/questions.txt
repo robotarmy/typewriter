@@ -26,7 +26,7 @@ Question:
       
     also dismiss the error message about Object?
 
-    Why are these equivalent to ruby - What is happending?
+    Why are these equivalent to ruby - What is happening?
 
 
 
